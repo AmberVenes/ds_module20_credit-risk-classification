@@ -1,1 +1,2 @@
 # ds_module20_credit-risk-classification
+This challenge uses Logistic Regression to predict healthy versus high-risk loans, leveraging machine learning techniques like data preparation, feature-label separation, and model evaluation. The analysis explores the effectiveness of the model in classifying loan statuses and highlights the importance of accurately identifying high-risk loans for better financial decision-making. By assessing the model's precision and recall, we gain valuable insights into its potential real-world application.
